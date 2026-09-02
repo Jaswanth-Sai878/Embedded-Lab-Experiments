@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<WORKSPACE>
+ <FRAME activeWindow="0">
+  <PLACEMENT>01d9d0cb00030000fffffffffffffff700000780000003fc0000000100000026000003d4000003fa00000000020000000780000000000000001d0000077f000003fb</PLACEMENT>
+  <WINDOW type="default" index="0" mode="00050a01" module="ISIS"/>
+  <WINDOW type="default" index="0" mode="00060a00" module="ARES"/>
+  <WINDOW type="default" index="0" mode="00060a00" module="VSMSTUDIO">
+   <STATE NAME="EDIT" VALUE="AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAFAAcgBvAGoAZQBjAHQAcwEAAAAA/////wAAASwA////+wAAABQAUAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAHUA////AAAAAwAAAAAAAAAA/AEAAAAB/AAAAAD/////AAAAawD////6AAAAAAEAAAAD+wAAACAATwB1AHQAcAB1AHQARABvAGMAawBXAGkAZABnAGUAdAEAAAAA/////wAAAGsA////+wAAABAAVABlAHIAbQBpAG4AYQBsAAAAAAD/////AAABhQD////7AAAAIgBCAHIAZQBhAGsAcABvAGkAbgB0AHMAVwBpAG4AZABvAHcAAAAAAP////8AAABrAP///wAAAAAAAAAAAAAAAQAAAAIAAAAIAAAAAvwAAAAA"/>
+   <TERMINAL>
+    <SERIAL STOPBITS="1" BAUD="9600" PORT="" PARITY="0" DATABITS="8"/>
+    <CONSOLE>
+     <ITEM name="AUTOECHO">0</ITEM>
+     <ITEM name="ENCODING">System</ITEM>
+     <ITEM name="HEXMODE">0</ITEM>
+     <ITEM name="LINEMODE">0</ITEM>
+     <ITEM name="XONOFF">0</ITEM>
+    </CONSOLE>
+   </TERMINAL>
+   <PROJECT NAME="AT89C51RD2" CONFIGURATION="Debug" ACTIVE="true">
+    <PROGRAMMER NAME="" INTERFACE=""/>
+   </PROJECT>
+   <EDITOR>
+    <FILE NAME="AT89C51RD2/main.asm" ACTIVE="1"/>
+   </EDITOR>
+  </WINDOW>
+ </FRAME>
+ <MODULE name="VSMEDIT">
+  <EDITOR>
+   <FILE NAME="AT89C51RD2/main.asm" ACTIVE="1"/>
+  </EDITOR>
+ </MODULE>
+ <MODULE name="ARES">
+  <editor gridmode="2" gridmajor="0" snaprange="0" scale="10" xcursor="0" metric="1" snap="0" orgmode="0" gridminor="0" zoom="10" snapidx="3" flipped="0">
+   <centre x="0" y="0"/>
+   <origin x="0" y="0"/>
+   <world x1="-15240000" y2="12700000" y1="-12700000" x2="15240000"/>
+  </editor>
+ </MODULE>
+ <MODULE name="VSMDEBUG">
+  <PWI/>
+ </MODULE>
+ <MODULE name="ISIS">
+  <editor gridmode="2" gridmajor="2540000" snaprange="127000" scale="118" xcursor="0" metric="0" snap="254000" orgmode="0" gridminor="254000" zoom="0" snapidx="2" flipped="0">
+   <centre x="0" y="0"/>
+   <origin x="0" y="0"/>
+   <world x1="-12700000" y2="8890000" y1="-8890000" x2="12700000"/>
+  </editor>
+ </MODULE>
+</WORKSPACE>
